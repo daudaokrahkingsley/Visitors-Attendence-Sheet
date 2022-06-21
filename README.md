@@ -1,2 +1,11 @@
-# pro
-Visitors attendance sheet
+Create a Database called my_db.
+
+This project is to take the attendence of visitors in a work place and store in a DataBase.
+This means the User will be able to type in the visitors first name(fname), 
+ last name(lname) and Email. After all these the is a panel(interface) for admin
+ to access the data. 
+       Two interfaces:
+      (a) Entry aspect.
+      (b) Retrieval aspect. 
+
+Things used in building this project: PHP, MySQL, HTML,CSS AND JAVASCRIPT. 
