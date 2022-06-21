@@ -1,0 +1,9 @@
+CREATE TABLE `customers`(
+    `custId` INT PRIMARY KEY AUTO_INCREAMENT,
+    `fname` VARCHAR(100) NOT NULL,
+    `lname` VARCHAR(100) NOT NULL,
+    `email` VARCHR(100) NOT NULL,
+    `created` DATETIME NOT NULL
+
+
+);
